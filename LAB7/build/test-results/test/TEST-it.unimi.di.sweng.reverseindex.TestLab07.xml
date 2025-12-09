@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unimi.di.sweng.reverseindex.TestLab07" tests="13" skipped="0" failures="0" errors="0" timestamp="2025-11-26T15:57:33.870Z" hostname="MacBook-Pro-di-Lorenzo.local" time="0.069">
+  <properties/>
+  <testcase name="testInizializzazioneBuilderConStrategie()" classname="it.unimi.di.sweng.reverseindex.TestLab07" time="0.044"/>
+  <testcase name="testLetturaDocumentiDaReaderU09()" classname="it.unimi.di.sweng.reverseindex.TestLab07" time="0.003"/>
+  <testcase name="testOutputStrategy()" classname="it.unimi.di.sweng.reverseindex.TestLab07" time="0.002"/>
+  <testcase name="testU03()" classname="it.unimi.di.sweng.reverseindex.TestLab07" time="0.001"/>
+  <testcase name="testU04()" classname="it.unimi.di.sweng.reverseindex.TestLab07" time="0.0"/>
+  <testcase name="testU05()" classname="it.unimi.di.sweng.reverseindex.TestLab07" time="0.001"/>
+  <testcase name="testU10()" classname="it.unimi.di.sweng.reverseindex.TestLab07" time="0.004"/>
+  <testcase name="testInizializzazioneBuilder()" classname="it.unimi.di.sweng.reverseindex.TestLab07" time="0.001"/>
+  <testcase name="testInputStrategy()" classname="it.unimi.di.sweng.reverseindex.TestLab07" time="0.002"/>
+  <testcase name="testCreaIndexSempliceU06()" classname="it.unimi.di.sweng.reverseindex.TestLab07" time="0.001"/>
+  <testcase name="tesstUnioneStrategy()" classname="it.unimi.di.sweng.reverseindex.TestLab07" time="0.002"/>
+  <testcase name="testLetturaDocumentiU01()" classname="it.unimi.di.sweng.reverseindex.TestLab07" time="0.001"/>
+  <testcase name="testOutputStrategyOrdinatoalfabeticamente()" classname="it.unimi.di.sweng.reverseindex.TestLab07" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
