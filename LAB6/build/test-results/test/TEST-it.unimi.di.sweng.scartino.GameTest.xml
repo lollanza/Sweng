@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unimi.di.sweng.scartino.GameTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-11-19T12:08:07.664Z" hostname="MacBook-Pro-di-Lorenzo.local" time="0.334">
+  <properties/>
+  <testcase name="testPlayTurnCompleto()" classname="it.unimi.di.sweng.scartino.GameTest" time="0.334"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
