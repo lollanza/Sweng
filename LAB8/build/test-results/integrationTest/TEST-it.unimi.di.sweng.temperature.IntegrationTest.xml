@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unimi.di.sweng.temperature.IntegrationTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-11-28T16:41:50.867Z" hostname="MacBook-Pro-di-Lorenzo.local" time="6.978">
+  <properties/>
+  <testcase name="twoTextFieldWithCelsisusStrategies(FxRobot)" classname="it.unimi.di.sweng.temperature.IntegrationTest" time="3.339"/>
+  <testcase name="twoTextFieldWithDifferentStrategies(FxRobot)" classname="it.unimi.di.sweng.temperature.IntegrationTest" time="2.553"/>
+  <testcase name="twoTextFieldWithFahrenheitStrategies(FxRobot)" classname="it.unimi.di.sweng.temperature.IntegrationTest" time="1.083"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[nov 28, 2025 5:41:50 PM com.sun.javafx.application.PlatformImpl startup
+WARNING: Unsupported JavaFX configuration: classes were loaded from 'unnamed module @3d5e0bf0'
+]]></system-err>
+</testsuite>
