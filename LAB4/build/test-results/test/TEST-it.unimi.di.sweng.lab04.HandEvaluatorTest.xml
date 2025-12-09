@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unimi.di.sweng.lab04.HandEvaluatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-10-30T20:49:05.498Z" hostname="Mac.lan" time="0.041">
+  <properties/>
+  <testcase name="trisHandEvalTest()" classname="it.unimi.di.sweng.lab04.HandEvaluatorTest" time="0.037"/>
+  <testcase name="highCardHandEvalTest()" classname="it.unimi.di.sweng.lab04.HandEvaluatorTest" time="0.0"/>
+  <testcase name="pairHandEvalTest()" classname="it.unimi.di.sweng.lab04.HandEvaluatorTest" time="0.0"/>
+  <testcase name="flushHandEvalTest()" classname="it.unimi.di.sweng.lab04.HandEvaluatorTest" time="0.001"/>
+  <testcase name="twoPairHandEvalTest()" classname="it.unimi.di.sweng.lab04.HandEvaluatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

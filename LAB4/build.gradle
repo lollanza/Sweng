@@ -1,0 +1,35 @@
+plugins {
+    id 'java'
+    id 'com.adarshr.test-logger' version '4.0.0'
+}
+
+repositories {
+    mavenCentral()
+}
+
+configurations {
+    mockitoAgent
+}
+
+dependencies {
+    implementation 'org.jetbrains:annotations:26.0.2-1'
+
+    testImplementation 'org.junit.jupiter:junit-jupiter:6.0.0'
+    testImplementation 'org.assertj:assertj-core:3.27.6'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher:6.0.0'
+    testImplementation 'org.mockito:mockito-core:5.20.0'
+    testImplementation 'org.mockito:mockito-junit-jupiter:5.20.0'
+
+    mockitoAgent('org.mockito:mockito-core:5.20.0') {
+        transitive = false
+    }
+}
+
+tasks.withType(Test) {
+    useJUnitPlatform()
+    jvmArgs "-javaagent:${configurations.mockitoAgent.asPath}"
+}
+
+testlogger {
+    theme 'plain'
+}
