@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unimi.di.sweng.lab03.ForthInterpreterTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2025-10-30T14:17:36.801Z" hostname="MacBook-Pro-di-Lorenzo.local" time="0.086">
+  <properties/>
+  <testcase name="[1] 1 2 drop, 1 &lt;- Top" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.04"/>
+  <testcase name="[2] 6 3 5 drop, 6 3 &lt;- Top" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.001"/>
+  <testcase name="[1] 1 2 swap, 2 1 &lt;- Top" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.0"/>
+  <testcase name="[2] 6 3 5 swap, 6 5 3 &lt;- Top" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.001"/>
+  <testcase name="[1] 1 2 +, 3 &lt;- Top" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.001"/>
+  <testcase name="[2] 1 2 + 5 +, 8 &lt;- Top" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.001"/>
+  <testcase name="[1] 1 2 -, 1 &lt;- Top" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.001"/>
+  <testcase name="[2] 6 3 /, 2 &lt;- Top" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.0"/>
+  <testcase name="testUnderFlow()" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.003"/>
+  <testcase name="testComandiAvanzatiCombinati()" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.001"/>
+  <testcase name="[1] 1, 1 &lt;- Top" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.001"/>
+  <testcase name="[2] 1 2, 1 2 &lt;- Top" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.001"/>
+  <testcase name="[3] 1&#10;2, 1 2 &lt;- Top" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.0"/>
+  <testcase name="[4] 1   2 &#10;3, 1 2 3 &lt;- Top" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.0"/>
+  <testcase name="[1] 1 2+, Token error 2+" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.002"/>
+  <testcase name="[2] 1 2 +5 +, Token error +5" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.001"/>
+  <testcase name="testInputVuoto()" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.001"/>
+  <testcase name="[1] 1 2 dup, 1 2 2 &lt;- Top" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.001"/>
+  <testcase name="[2] 6 3 5 dup, 6 3 5 5 &lt;- Top" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.0"/>
+  <testcase name="testEccezioneComandiAvanzatiCombinati()" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.001"/>
+  <testcase name="[1] 1 2 *, 2 &lt;- Top" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.001"/>
+  <testcase name="[2] 1 2 * 5 *, 10 &lt;- Top" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
