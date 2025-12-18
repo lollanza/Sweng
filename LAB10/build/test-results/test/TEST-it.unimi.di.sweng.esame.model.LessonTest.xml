@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unimi.di.sweng.esame.model.LessonTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-12-18T11:17:41.552Z" hostname="MacBook-Pro-di-Lorenzo.local" time="0.055">
+  <properties/>
+  <testcase name="[1] &quot;8:30&quot;, &quot;2&quot;, &quot;9:30&quot;, &quot;1&quot;, &quot;true&quot;" classname="it.unimi.di.sweng.esame.model.LessonTest" time="0.046"/>
+  <testcase name="[2] &quot;8:30&quot;, &quot;2&quot;, &quot;11:30&quot;, &quot;1&quot;, &quot;false&quot;" classname="it.unimi.di.sweng.esame.model.LessonTest" time="0.001"/>
+  <testcase name="[3] &quot;11:30&quot;, &quot;2&quot;, &quot;9:30&quot;, &quot;1&quot;, &quot;false&quot;" classname="it.unimi.di.sweng.esame.model.LessonTest" time="0.003"/>
+  <testcase name="[4] &quot;11:30&quot;, &quot;2&quot;, &quot;9:30&quot;, &quot;3&quot;, &quot;true&quot;" classname="it.unimi.di.sweng.esame.model.LessonTest" time="0.001"/>
+  <testcase name="[5] &quot;8:30&quot;, &quot;2&quot;, &quot;10:30&quot;, &quot;2&quot;, &quot;false&quot;" classname="it.unimi.di.sweng.esame.model.LessonTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
