@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unimi.di.sweng.lab11.view.TestIntegrazione" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-12-23T16:13:14.557Z" hostname="MacBook-Pro-di-Lorenzo.local" time="33.964">
+  <properties/>
+  <testcase name="[1] &quot;Peluche:6&quot;, &quot;&quot;, &quot;City and toy must not be blank&quot;" classname="it.unimi.di.sweng.lab11.view.TestIntegrazione" time="3.32"/>
+  <testcase name="[2] &quot;Peluche:otto&quot;, &quot;Milano&quot;, &quot;The number of toys must be a positive integer&quot;" classname="it.unimi.di.sweng.lab11.view.TestIntegrazione" time="3.164"/>
+  <testcase name="[3] &quot;Peluche 7&quot;, &quot;Milano&quot;, &quot;The input must be in the form toy:num&quot;" classname="it.unimi.di.sweng.lab11.view.TestIntegrazione" time="2.938"/>
+  <testcase name="testAddPeluche(FxRobot)" classname="it.unimi.di.sweng.lab11.view.TestIntegrazione" time="2.956"/>
+  <testcase name="testAddPelucheToMilano(FxRobot)" classname="it.unimi.di.sweng.lab11.view.TestIntegrazione" time="2.897"/>
+  <testcase name="testSortPresentationCity(FxRobot)" classname="it.unimi.di.sweng.lab11.view.TestIntegrazione" time="7.809"/>
+  <testcase name="testSortPresentationToy(FxRobot)" classname="it.unimi.di.sweng.lab11.view.TestIntegrazione" time="10.515"/>
+  <testcase name="testStart(FxRobot)" classname="it.unimi.di.sweng.lab11.view.TestIntegrazione" time="0.358"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[dic 23, 2025 5:13:14 PM com.sun.javafx.application.PlatformImpl startup
+WARNING: Unsupported JavaFX configuration: classes were loaded from 'unnamed module @39ac0c0a'
+]]></system-err>
+</testsuite>
